@@ -1,1 +1,1 @@
-# Rest-Countries-API-Project
+This is a Project to practice the working with API's using REACT + Parcel
